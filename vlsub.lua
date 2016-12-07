@@ -429,6 +429,7 @@ function interface_main()
     lang["int_all"])
     
   display_subtitles()
+	searchHash()
 end
 
 function set_interface_main()
